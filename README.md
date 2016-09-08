@@ -5,14 +5,14 @@ Purpose
 
 This Application will showcase the following features of GeoLocation APIs
 
-1) getCurrentPosition
-2) watchPosition
-3) clearWatch
-
-Supported Channels:
+1) getCurrentPosition                                                                                                      
+2) watchPosition                                                                                                              
+3) clearWatch                                                                                                                            
+                                                                                                                             
+Supported Channels:                                                                                                        
 
 Mobile
-
+                                                                                                                              
    1) Android                                                                                                                 
    2) iPhone                                                                                                                
    3) SPA Android                                                                                                       
@@ -22,7 +22,7 @@ Mobile
    7) Windows Phone 7.5                                                                                                       
    8) Windows Phone 8                                                                                                           
 Tablet                                                                                                                     
-
+                                                                 
    1) Android                                                                                                              
    2) iPad                                                                                                                  
    3) SPA iPad                                                                                                              
