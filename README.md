@@ -20,7 +20,7 @@ Mobile
    5) BlackBerry                                                                                                             
    6) SPA BlackBerry                                                                                                         
    7) Windows Phone 7.5                                                                                                       
-   8) Windows Phone 8                                                                                                           
+   8) Windows Phone 8                                                                                                                                                                                                                                 
 Tablet                                                                                                                     
                                                                  
    1) Android                                                                                                              
